@@ -1,0 +1,3 @@
+In this we have analysed that for a particular associativity value we are getting maximum efficiency.
+Below and Above that we are not getting optimize result.
+Also, efficiency of any program also depends on its design whether CPU intensive application or GPU intensive application, spatial locality and many other factor.
